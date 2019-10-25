@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/tostille/ContosoDemo/_apis/build/status/tpstiller.ContosoAir?branchName=master)](https://dev.azure.com/tostille/ContosoDemo/_build/latest?definitionId=38&branchName=master)
 
 
 # Microsoft.Github CI Demo
